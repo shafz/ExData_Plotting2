@@ -1,3 +1,4 @@
+library(ggplot2)
 # Loading provided datasets - loading from local machine
 NEI <- readRDS("./data/summarySCC_PM25.rds")
 SCC <- readRDS("./data/Source_Classification_Code.rds")
